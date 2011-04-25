@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule1", "Rule1\Rule1.csproj", "{D10255B0-2216-40D1-9D6A-5AC47DFDEE74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rules", "Rules", "{D39184B3-D08E-4994-BB99-ECCDEBE80BC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{F5496DF5-39F8-4EDB-B8BF-DC0863481AA1}"
+	ProjectSection(SolutionItems) = preProject
+		Rule1\Rule1-a.il = Rule1\Rule1-a.il
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{A28441F1-4A52-4DEE-A75A-218C9379C28D}"
+	ProjectSection(SolutionItems) = preProject
+		lib\Mono.Cecil.dll = lib\Mono.Cecil.dll
+		lib\Mono.Cecil.Pdb.dll = lib\Mono.Cecil.Pdb.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10255B0-2216-40D1-9D6A-5AC47DFDEE74}.Debug|x86.ActiveCfg = Debug|x86
+		{D10255B0-2216-40D1-9D6A-5AC47DFDEE74}.Debug|x86.Build.0 = Debug|x86
+		{D10255B0-2216-40D1-9D6A-5AC47DFDEE74}.Release|x86.ActiveCfg = Release|x86
+		{D10255B0-2216-40D1-9D6A-5AC47DFDEE74}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5496DF5-39F8-4EDB-B8BF-DC0863481AA1} = {D39184B3-D08E-4994-BB99-ECCDEBE80BC1}
+		{D10255B0-2216-40D1-9D6A-5AC47DFDEE74} = {F5496DF5-39F8-4EDB-B8BF-DC0863481AA1}
+	EndGlobalSection
+EndGlobal
