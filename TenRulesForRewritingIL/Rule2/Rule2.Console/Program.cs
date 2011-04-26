@@ -237,9 +237,11 @@ namespace Rule2.Console
                 if (method.Name != "WriteLine")
                     continue;
 
-                // Notice that we're calling HelperClass.WriteLine(string), not the overload
+                // Notice that we're calling HelperClass.WriteLine(string, string, object), not the overload
                 // with HelperClass.WriteLine(string, object)
                 var saveFormat = processor.Create(OpCodes.Stloc, formatVariable);
+
+                // No need to save the parameter from the ldarg_1 instruction since its already stored as a parameter
                 var saveArgument = processor.Create(OpCodes.Pop);
                 var blockStart = processor.Create(OpCodes.Nop);
 
