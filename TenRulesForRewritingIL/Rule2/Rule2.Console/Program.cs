@@ -269,7 +269,7 @@ namespace Rule2.Console
     {
         static void Main(string[] args)
         {
-            var runner = new FixedSampleRunnerThatHadAStackUnderFlow();
+            var runner = new SampleRunnerWithStackUnderFlow();
             runner.Run();
 
             return;

@@ -1,0 +1,5 @@
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Interfaces\bin\Debug\Rule2.Interfaces.dll
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Interfaces\bin\Debug\Rule2.Interfaces.pdb
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Interfaces\obj\Debug\Rule2.Interfaces.dll
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Interfaces\obj\Debug\Rule2.Interfaces.pdb

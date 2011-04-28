@@ -1,0 +1,11 @@
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.exe.config
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.exe
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.pdb
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Mono.Cecil.dll
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Interfaces.dll
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Library.dll
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Interfaces.pdb
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Library.pdb
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.exe
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.pdb

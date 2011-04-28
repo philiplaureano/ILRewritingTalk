@@ -1,0 +1,6 @@
+
+Microsoft (R) .NET Framework PE Verifier.  Version  4.0.30319.1
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+[IL]: Error: [H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\output.dll : Rule2.Library.ConsoleGreeter::Greet][offset 0x0000000D] Stack must be empty on return from a void function.
+1 Error(s) Verifying output.dll
