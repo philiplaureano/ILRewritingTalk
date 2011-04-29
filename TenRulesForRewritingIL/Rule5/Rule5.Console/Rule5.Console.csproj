@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{43960E30-6B9F-4367-8B2A-3B34B914A5D8}</ProjectGuid>
+    <ProjectGuid>{A20FCF82-8384-4492-B249-D6096B3961C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Rule2.Console</RootNamespace>
-    <AssemblyName>Rule2.Console</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <RootNamespace>Rule5.Console</RootNamespace>
+    <AssemblyName>Rule5.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -38,38 +38,28 @@
       <HintPath>..\..\lib\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FixedSampleRunnerThatHadAStackUnderFlow.cs" />
-    <Compile Include="FixedSampleRunnerWithStackThatWasTooHigh.cs" />
-    <Compile Include="HelperClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SampleRunner.cs" />
-    <Compile Include="SampleRunnerWithBalancedStack.cs" />
-    <Compile Include="SampleRunnerWithStackThatIsTooHigh.cs" />
-    <Compile Include="SampleRunnerWithStackUnderflow.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Rule2.Interfaces\Rule2.Interfaces.csproj">
-      <Project>{EC8B5638-B576-466C-A5DD-CA5BABFB619F}</Project>
-      <Name>Rule2.Interfaces</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Rule2.Library\Rule2.Library.csproj">
-      <Project>{DFE6DF10-1A14-4BC0-944B-6648D9BA6766}</Project>
-      <Name>Rule2.Library</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="SampleRunnerWithStackThatIsTooHigh.il" />
-    <None Include="SampleRunnerWithStackUnderFlow.il" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SampleRunnerWithStackThatIsTooHigh_Peverify.txt" />
-    <Content Include="SampleRunnerWithStackUnderFlow_Peverify.txt" />
+    <ProjectReference Include="..\FizzBuzz.Interfaces\FizzBuzz.Interfaces.csproj">
+      <Project>{DA7F4EA7-F4C1-438C-82F3-36DB03CF44A8}</Project>
+      <Name>FizzBuzz.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj">
+      <Project>{68AD3EFD-B3CC-4532-B306-5D93E660F59C}</Project>
+      <Name>FizzBuzz</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
