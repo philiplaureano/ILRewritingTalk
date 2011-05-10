@@ -15,7 +15,7 @@ namespace Rule2.Console
     {
         static void Main(string[] args)
         {
-            var runner = new SampleRunnerWithStackUnderFlow();
+            var runner = new SampleRunnerWithStackThatIsTooHigh();
             runner.Run();
 
             return;

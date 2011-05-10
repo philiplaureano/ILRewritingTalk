@@ -3,3 +3,5 @@ H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.pdb
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\ResolveAssemblyReference.cache
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.exe
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.pdb
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.exe.config
+H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Mono.Cecil.dll
