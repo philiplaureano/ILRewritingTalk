@@ -122,7 +122,6 @@ namespace Rule5.Console
             var processor = body.GetILProcessor();
 
             
-
             // var isFizz = num % 3 == 0;
             EmitIsDivisibleBy(processor, 3, isFizz);
 
