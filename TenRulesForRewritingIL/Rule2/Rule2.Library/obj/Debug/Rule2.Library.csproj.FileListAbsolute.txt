@@ -5,3 +5,10 @@ H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\bin\De
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\ResolveAssemblyReference.cache
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\Rule2.Library.dll
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\Rule2.Library.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\bin\Debug\Rule2.Library.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\bin\Debug\Rule2.Library.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\bin\Debug\Rule2.Interfaces.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\bin\Debug\Rule2.Interfaces.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\Rule2.Library.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Library\obj\Debug\Rule2.Library.pdb

@@ -64,12 +64,17 @@ namespace Rule5.Console
             // var isBuzz = num % 5 == 0;
             EmitIsDivisibleBy(processor, 5, isBuzz);
 
+            processor.EmitWriteLine("--Begin--");
+
             var endLabel = processor.Create(OpCodes.Nop);
             var printFizzOrBuzz = processor.Create(OpCodes.Nop);
             // if (isFizz && isBuzz) {
             processor.Emit(OpCodes.Ldloc, isFizz);
             processor.Emit(OpCodes.Ldloc, isBuzz);
             processor.Emit(OpCodes.And);
+
+            processor.EmitWriteLine("--Marker--");
+
             processor.Emit(OpCodes.Brfalse, printFizzOrBuzz);
 
             // Console.WriteLine("FizzBuzz");
@@ -96,6 +101,8 @@ namespace Rule5.Console
             processor.Append(skipBuzz);
 
             processor.Append(endLabel);
+
+            processor.EmitWriteLine("--End--");
             processor.Emit(OpCodes.Ret);
         }
 

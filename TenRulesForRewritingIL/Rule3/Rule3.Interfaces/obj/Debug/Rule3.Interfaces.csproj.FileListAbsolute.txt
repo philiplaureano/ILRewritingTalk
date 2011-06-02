@@ -3,3 +3,8 @@ H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\bin
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\Rule3.Interfaces.dll
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\Rule3.Interfaces.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\bin\Debug\Rule3.Interfaces.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\bin\Debug\Rule3.Interfaces.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\Rule3.Interfaces.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule3\Rule3.Interfaces\obj\Debug\Rule3.Interfaces.pdb

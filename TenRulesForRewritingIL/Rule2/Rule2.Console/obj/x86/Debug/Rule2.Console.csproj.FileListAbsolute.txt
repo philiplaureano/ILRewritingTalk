@@ -9,3 +9,15 @@ H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\De
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\ResolveAssemblyReference.cache
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.exe
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.exe.config
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.exe
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Console.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Mono.Cecil.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Interfaces.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Library.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Interfaces.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\Rule2.Library.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.exe
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\obj\x86\Debug\Rule2.Console.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule2\Rule2.Console\bin\Debug\LinqBridge.dll

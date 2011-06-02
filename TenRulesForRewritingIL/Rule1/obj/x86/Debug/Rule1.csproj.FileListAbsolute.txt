@@ -5,3 +5,11 @@ H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.pdb
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.exe.config
 H:\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Mono.Cecil.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.exe.config
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.exe
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Rule1.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\Mono.Cecil.dll
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.exe
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\obj\x86\Debug\Rule1.pdb
+C:\Users\Phil\Desktop\Development\ILRewritingTalk\TenRulesForRewritingIL\Rule1\bin\Debug\LinqBridge.dll
