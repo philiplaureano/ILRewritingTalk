@@ -44,8 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseRunnerCase.cs" />
+    <Compile Include="BrokenRunnerCase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkingRunnerCase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Rule3.Interfaces\Rule3.Interfaces.csproj">
